@@ -1,0 +1,11 @@
+/Users/Alex/Projects/FFNN/FFNN/bin/Debug/FFNN.exe
+/Users/Alex/Projects/FFNN/FFNN/bin/Debug/FFNN.pdb
+/Users/Alex/Projects/FFNN/FFNN/obj/x86/Debug/FFNN.csproj.CoreCompileInputs.cache
+/Users/Alex/Projects/FFNN/FFNN/obj/x86/Debug/FFNN.exe
+/Users/Alex/Projects/FFNN/FFNN/obj/x86/Debug/FFNN.pdb
+/Users/Alex/Documents/Projects/FFNN/FFNN/bin/Debug/FFNN.exe
+/Users/Alex/Documents/Projects/FFNN/FFNN/bin/Debug/FFNN.pdb
+/Users/Alex/Documents/Projects/FFNN/FFNN/obj/x86/Debug/FFNN.csproj.CoreCompileInputs.cache
+/Users/Alex/Documents/Projects/FFNN/FFNN/obj/x86/Debug/FFNN.exe
+/Users/Alex/Documents/Projects/FFNN/FFNN/obj/x86/Debug/FFNN.pdb
+/Users/Alex/Documents/Projects/FFNN/FFNN/obj/x86/Debug/FFNN.csprojAssemblyReference.cache

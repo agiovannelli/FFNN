@@ -1,0 +1,3 @@
+/Users/Alex/Documents/Projects/FFNN/FFNN/bin/Release/FFNN.exe
+/Users/Alex/Documents/Projects/FFNN/FFNN/obj/x86/Release/FFNN.csproj.CoreCompileInputs.cache
+/Users/Alex/Documents/Projects/FFNN/FFNN/obj/x86/Release/FFNN.exe

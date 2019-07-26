@@ -1,0 +1,19 @@
+﻿<Properties StartupConfiguration="{B686D61F-F89A-45CB-BECB-7AFAE7CD4DE3}|Default">
+  <MonoDevelop.Ide.ItemProperties.FFNN PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="FFNN/DataFileOperations.cs">
+    <Files>
+      <File FileName="FFNN/Program.cs" Line="22" Column="51" />
+      <File FileName="FFNN/DataFileOperations.cs" Line="113" Column="33" />
+      <File FileName="FFNN/Backpropagation.cs" Line="316" Column="39" />
+      <File FileName="FFNN/Neuron.cs" Line="28" Column="9" />
+      <File FileName="FFNN/Layer.cs" Line="1" Column="1" />
+      <File FileName="FFNN/Network.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
