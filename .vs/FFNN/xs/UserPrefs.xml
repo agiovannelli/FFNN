@@ -1,14 +1,26 @@
 ﻿<Properties StartupConfiguration="{B686D61F-F89A-45CB-BECB-7AFAE7CD4DE3}|Default">
   <MonoDevelop.Ide.ItemProperties.FFNN PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="FFNN/DataFileOperations.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="FFNN/RubricProblems.cs">
     <Files>
-      <File FileName="FFNN/Program.cs" Line="22" Column="51" />
-      <File FileName="FFNN/DataFileOperations.cs" Line="113" Column="33" />
-      <File FileName="FFNN/Backpropagation.cs" Line="316" Column="39" />
-      <File FileName="FFNN/Neuron.cs" Line="28" Column="9" />
-      <File FileName="FFNN/Layer.cs" Line="1" Column="1" />
-      <File FileName="FFNN/Network.cs" Line="1" Column="1" />
+      <File FileName="FFNN/Program.cs" Line="52" Column="24" />
+      <File FileName="FFNN/RubricProblems.cs" Line="8" Column="20" />
+      <File FileName="FFNN/DataFileOperations.cs" Line="116" Column="33" />
+      <File FileName="FFNN/Backpropagation.cs" />
+      <File FileName="FFNN/Neuron.cs" />
+      <File FileName="FFNN/Layer.cs" />
+      <File FileName="FFNN/Network.cs" />
     </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="FFNN" expanded="True">
+            <Node name="FFNN" expanded="True">
+              <Node name="RubricProblems.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
