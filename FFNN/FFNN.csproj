@@ -43,6 +43,7 @@
     <Compile Include="Backpropagation.cs" />
     <Compile Include="DataFileOperations.cs" />
     <Compile Include="Shuffler.cs" />
+    <Compile Include="RubricProblems.cs" />
   </ItemGroup>
   <Import Project="$(MSBuildBinPath)\Microsoft.CSharp.targets" />
 </Project>
